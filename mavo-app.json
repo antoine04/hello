@@ -1,0 +1,9 @@
+{
+	"email": "foo@bar.chomre",
+	"message": "\tEdit the form and notice how the values persist after you refresh!\n",
+	"firstName": "Lea",
+	"last_name": "Verou",
+	"hobby": [
+		"Eating"
+	]
+}
